@@ -2,6 +2,8 @@
 
 ---
 
+> Note: If clone don't see code, you can download by [google drive](https://drive.google.com/drive/folders/1MCfzPOiuGVeH_RQxnfHoLhCO7yZ3nabU?usp=sharing).
+
 ### REQUIREMENTS
 
 -   [Node 16.15.1](https://nodejs.org/en/download/)
